@@ -9,17 +9,5 @@ public class OperatorsOr {
 		{
 			System.out.println("Condition is FALSE");
 			}
-/*
-int ageOfBoy = 45;
-int ageOfGirl = 32;
-if ((ageOfBoy &gt;= 21) &amp;&amp; (ageOfGirl &gt;= 18))
-{
-System.out.println(&quot;ready to get married!&quot;);
-}
-else
-{
-System.out.println(&quot;Wait for it kiddo!&quot;);
-}
-*/
-}
+		}
 }
