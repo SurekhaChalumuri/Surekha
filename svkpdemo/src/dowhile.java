@@ -15,7 +15,6 @@ public class dowhile {
 			System.out.println("i="+i+" and j="+j);
 			}
 		// Do while loop
-		int i=1,j=1;
 		do {
 			i++;
 			j++;
